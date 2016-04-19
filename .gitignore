@@ -1,6 +1,9 @@
+*.log
+*.idb
+*.db
 *.pdb
+*.iobj
 *.obj
 *.exe
 *.tlog
 *.ilk
-*.db
